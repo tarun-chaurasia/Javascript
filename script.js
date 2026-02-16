@@ -72,22 +72,22 @@
 //     console.log('Button clicked')
 // })
 
-debugger
-console.log(a)
+// debugger
+// console.log(a)
+// // console.log(b)
+
+// var a=3453
+// let b=456;
+
+// console.log(a)
 // console.log(b)
 
-var a=3453
-let b=456;
+// function print(){
+//     let c=40
+//     console.log("Inside fn")
+// }
 
-console.log(a)
-console.log(b)
-
-function print(){
-    let c=40
-    console.log("Inside fn")
-}
-
-print()
+// print()
 
 
 
