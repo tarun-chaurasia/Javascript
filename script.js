@@ -31,6 +31,23 @@
 // para.style.color="blue"
 // console.log(para)
 
+// const para=document.getElementById("para")  
+// para[0].textContent="This is updated para"
+// para[1].style.color="blue"
+// para.style.backgroundColor="yellow"
+// console.log(para)
+
+// const para=document.getElementsByClassName("para")
+// para[0].textContent="This is updated para"
+// para[1].style.color="blue"
+// para.style.backgroundColor="yellow"
+// console.log(para)
+
+// const para=document.querySelector(".para")
+// para.textContent="This is updated para"
+// para.style.color="blue"
+// console.log(para)
+
 // const para=document.querySelectorAll(".para")
 // para[0].textContent="This is updated para"
 // para[1].style.color="blue"
