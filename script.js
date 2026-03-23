@@ -55,6 +55,12 @@
 // para.style.backgroundColor="yellow"
 // console.log(para)
 
+// const para=document.getElementById("para")  
+// para[0].textContent="This is updated para"
+// para[1].style.color="blue"
+// para.style.backgroundColor="yellow"
+// console.log(para)
+
 // const para=document.querySelector(".para")
 // para.textContent="This is updated para"
 // para.style.color="blue"
@@ -123,6 +129,13 @@
 
 // print()
 
-
+// const form=document.querySelector('form')
+// form.addEventListener('submit', (event)=>{
+//     event.preventDefault
+//     console.log(event.srcElement[0].value)
+//     console.log(event.srcElement[1].value)
+//     console.log(event)
+//     console.log('Button clicked')
+// })
 
 
