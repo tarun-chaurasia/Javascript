@@ -154,3 +154,11 @@ module.exports = {
   plugins: [],
 }
 
+const pen = {
+    title : "Parker Jotter Standard Ball Pen",
+    price : 270.00,
+    offer : "5% off",
+    ratings : 4.5,
+};
+
+console.log(pen)
