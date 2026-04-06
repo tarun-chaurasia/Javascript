@@ -21,6 +21,12 @@
 //     phone:9999977777
 // }
 
+// let obj2={
+//     name:"Varun",
+//     section:"FSDB",
+//     phone:9999977777
+// }
+
 // obj.name=["Tarun"]
 
 // const para=document.getElementById("para")  
