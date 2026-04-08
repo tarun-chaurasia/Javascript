@@ -1,4 +1,4 @@
-n=123
+n=1234
 # print(len(str(n))) #Output 5
 
 rev=0
