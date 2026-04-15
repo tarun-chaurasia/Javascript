@@ -16,7 +16,7 @@ console.log("Hello students again!!")
 // // const d; //you have to initialise at the same time
 // // d=345;
 
-// var d=675 //❌
+// var d=6758 //❌
 // d=1212
 // var e;
 // e=4564
