@@ -6,4 +6,5 @@ while n>0:
     # digit=n%10
     rev=rev*10+n
     n=n//10
+    prinr()
 print(rev)
