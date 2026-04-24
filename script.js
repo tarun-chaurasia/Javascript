@@ -189,6 +189,7 @@ switch(grade){
 //     // console.log("object")
 // }
 //3. Arrow Function
+Console.log("Array"
 
 
 // console.log(print(12, 13))
