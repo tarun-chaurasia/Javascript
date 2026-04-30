@@ -1,9 +1,9 @@
 import React, { useState } from 'react'
 import './App.css'
 // import TopBar from './component/TopBar'
-import Article from './component/Article'
+import Article from '/component/Article'
 // import HomePage from './component/HomePage'
-import Contact from './component/Contact'
+import Contact from '/component/Contact'
 
 function App() {
 
