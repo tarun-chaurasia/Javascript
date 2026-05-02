@@ -4,7 +4,7 @@ console.log("Hello students again!!")
 // const b=78;
 // var c=34;
 
-// console.log(a, b, c)
+// console.log(a, b, c);
 
 // let a=5683933;
 // a=878
